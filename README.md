@@ -1,3 +1,3 @@
 # HRanalytics
 ![HRanalytics](1.jpg)
-Format: ![HR Analytics practice problem](https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/)
+[HRanalytics Analytics Vidhya](https://datahack.analyticsvidhya.com/contest/wns-analytics-hackathon-2018-1/)
